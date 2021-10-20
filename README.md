@@ -17,9 +17,8 @@ Os arquivos script foram separados em duas partes: uma que lida com a interface 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![mockup_jogo_da_velha](https://user-images.githubusercontent.com/70289587/138010692-1ed40195-4203-4109-a7c8-5577a0795d22.png)
 
-  
 ## Authors
 
 - [@igorfurtado](https://github.com/igorfurtado)
